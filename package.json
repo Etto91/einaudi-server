@@ -1,0 +1,20 @@
+{
+  "name": "einaudi-server",
+  "version": "1.0.0",
+  "description": "server node",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etto91/einaudi-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etto91/einaudi-server/issues"
+  },
+  "homepage": "https://github.com/Etto91/einaudi-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "parse-server": "^4.5.0"
+  }
+}
