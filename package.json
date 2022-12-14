@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/Etto91/einaudi-server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parse-server": "^4.5.0"
   }
 }
